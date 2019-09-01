@@ -13,5 +13,5 @@ Things I know, but hope to understand even better:
 * Filters & Attributes
 
 ## For Admin:
-login: dawid.berk@gmail.com
-password: Qwerty99!
+*login: dawid.berk@gmail.com
+*password: Qwerty99!
