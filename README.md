@@ -3,7 +3,7 @@ Web Application
 
 Guestbook aplication I'm still working on it
 
-Things I know, but hope to understand even better:
+### Things I know, but hope to understand even better:
 * MVC
 * Entity Framework 
 * SQL Server DB
@@ -12,6 +12,6 @@ Things I know, but hope to understand even better:
 * Migrations
 * Filters & Attributes
 
-## For Admin:
-*login: dawid.berk@gmail.com
-*password: Qwerty99!
+### For Admin:
+* login: dawid.berk@gmail.com
+* password: Qwerty99!
