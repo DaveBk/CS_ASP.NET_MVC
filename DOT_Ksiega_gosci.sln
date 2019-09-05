@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOT_Ksiega_gosci", "DOT_Ksiega_gosci\DOT_Ksiega_gosci.csproj", "{D8D1B234-4E9F-440C-8645-E950B9B05BE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOT.Tests", "DOT.Tests\DOT.Tests.csproj", "{CDB16319-0CDD-4CF0-A641-5C7FC2828409}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D8D1B234-4E9F-440C-8645-E950B9B05BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8D1B234-4E9F-440C-8645-E950B9B05BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8D1B234-4E9F-440C-8645-E950B9B05BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB16319-0CDD-4CF0-A641-5C7FC2828409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB16319-0CDD-4CF0-A641-5C7FC2828409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB16319-0CDD-4CF0-A641-5C7FC2828409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB16319-0CDD-4CF0-A641-5C7FC2828409}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
