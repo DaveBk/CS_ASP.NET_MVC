@@ -11,6 +11,7 @@ Guestbook aplication I'm still working on it
 * LINQ
 * Migrations
 * Filters & Attributes
+* NUnits Test
 
 ### For Admin:
 * login: dawid.berk@gmail.com
